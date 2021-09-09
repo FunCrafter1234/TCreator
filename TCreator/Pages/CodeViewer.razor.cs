@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TCreator.Pages
 {
-    public class CounterBase : ComponentBase
+    public class CodeViewerBase : ComponentBase
     {
 		public StandaloneEditorConstructionOptions EditorConstructionOptions(MonacoEditor editor)
 		{

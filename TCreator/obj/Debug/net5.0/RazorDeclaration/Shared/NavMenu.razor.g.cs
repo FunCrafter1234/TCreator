@@ -97,7 +97,7 @@ using BlazorMonaco;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\Shared\NavMenu.razor"
+#line 23 "C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
