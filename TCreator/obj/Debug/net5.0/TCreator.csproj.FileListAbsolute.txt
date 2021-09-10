@@ -19,10 +19,7 @@ C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.csp
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.RazorComponent.input.cache
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -32,10 +29,7 @@ C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.Tag
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.TagHelpers.output.cache
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.RazorCoreGenerate.cache
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
@@ -57,3 +51,10 @@ C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.dll
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\ref\TCreator.dll
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.pdb
 C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\TCreator.genruntimeconfig.cache
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Pages\CodeViewer.razor.g.cs
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\bin\Debug\net5.0\MatBlazor.dll
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Pages\CodeViewer.razor.g.cs
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\bin\Debug\net5.0\JSONS\usings.json
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\RazorDeclaration\Shared\ProjectView.razor.g.cs
+C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\Razor\Shared\ProjectView.razor.g.cs

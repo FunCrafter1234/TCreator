@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using TCreator.Data;
+using TCreator.Services;
 
 namespace TCreator
 {
@@ -28,7 +28,7 @@ namespace TCreator
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
+            services.AddSingleton<AppState>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

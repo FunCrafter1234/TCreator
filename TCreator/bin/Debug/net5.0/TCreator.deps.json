@@ -34,6 +34,8 @@
       "TCreator/1.0.0": {
         "dependencies": {
           "BlazorMonaco": "2.1.0",
+          "MatBlazor": "2.8.0",
+          "Newtonsoft.Json": "13.0.1",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -340,6 +342,21 @@
           "lib/net5.0/BlazorMonaco.dll": {}
         }
       },
+      "MatBlazor/2.8.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "5.0.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MatBlazor.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/MatBlazor.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Metadata": "5.0.0",
@@ -384,6 +401,17 @@
       },
       "Microsoft.Extensions.Primitives/5.0.0": {},
       "Microsoft.JSInterop/5.0.0": {},
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "System.IO.Pipelines/5.0.0": {},
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
         "compile": {
@@ -2098,6 +2126,13 @@
       "path": "blazormonaco/2.1.0",
       "hashPath": "blazormonaco.2.1.0.nupkg.sha512"
     },
+    "MatBlazor/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NAbkrLR6YdEXNtQQreJOAdZEqTBeG6wXiTxs9ItHBCLnoCouX//VELHakDXcMtK27QzmeB8uGRwWIkglvhpKLg==",
+      "path": "matblazor/2.8.0",
+      "hashPath": "matblazor.2.8.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Authorization/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2181,6 +2216,13 @@
       "sha512": "sha512-qhLTZMoOsAbDWwE7M+VbjxH3EuP654tclaOhi6Sf7Xh6bj6TXDO0GiNQeNPdebMClKMGELJezOwbFp1BFB+9Ug==",
       "path": "microsoft.jsinterop/5.0.0",
       "hashPath": "microsoft.jsinterop.5.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
     },
     "System.IO.Pipelines/5.0.0": {
       "type": "package",

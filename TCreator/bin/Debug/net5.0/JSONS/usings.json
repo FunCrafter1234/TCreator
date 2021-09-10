@@ -1,0 +1,13 @@
+{
+  "Usings": [
+    {
+      "Name": "Terraria.ID",
+      "Code": "using Terraria.ID;"
+    }
+    {
+      "Name": "Terraria.ModLoader",
+      "Code": "using Terraria.ModLoader;"
+    }
+  ]
+
+}
