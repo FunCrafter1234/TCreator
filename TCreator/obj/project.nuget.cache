@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g2YX84kL5bXJlA3Xb+KoWTI9a9+PVbzaMzbBk3tvbHiyhp23BrA1rDPnGULdTaKpPwnuJ0/OtraXnemC5tGW2w==",
+  "dgSpecHash": "6qK7jkMhfWQ9P8AlodbDbC6NvD3tfw4l6W62vBPdDs1qZ/+dfhUybgD1znAwAIvBfTBOFxFb7BY3KnXcJrtQjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marvin\\Documents\\GitHub\\TCreator\\TCreator\\TCreator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marvin\\.nuget\\packages\\blazormonaco\\2.1.0\\blazormonaco.2.1.0.nupkg.sha512",
+    "C:\\Users\\Marvin\\.nuget\\packages\\matblazor\\2.8.0\\matblazor.2.8.0.nupkg.sha512",
     "C:\\Users\\Marvin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "C:\\Users\\Marvin\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",
     "C:\\Users\\Marvin\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.0\\microsoft.aspnetcore.components.analyzers.5.0.0.nupkg.sha512",

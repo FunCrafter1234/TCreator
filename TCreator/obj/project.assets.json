@@ -21,6 +21,32 @@
           "buildMultiTargeting/BlazorMonaco.props": {}
         }
       },
+      "MatBlazor/2.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.10",
+          "Microsoft.AspNetCore.Components.Web": "3.1.10"
+        },
+        "compile": {
+          "lib/netstandard2.1/MatBlazor.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MatBlazor.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/netstandard2.1/Properties/launchSettings.json": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        },
+        "build": {
+          "buildTransitive/MatBlazor.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/MatBlazor.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.0": {
         "type": "package",
         "dependencies": {
@@ -376,6 +402,27 @@
         "staticwebassets/lib/monaco-editor/min/vs/loader.min.js"
       ]
     },
+    "MatBlazor/2.8.0": {
+      "sha512": "NAbkrLR6YdEXNtQQreJOAdZEqTBeG6wXiTxs9ItHBCLnoCouX//VELHakDXcMtK27QzmeB8uGRwWIkglvhpKLg==",
+      "type": "package",
+      "path": "matblazor/2.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MatBlazor.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/MatBlazor.props",
+        "buildTransitive/MatBlazor.props",
+        "content/Properties/launchSettings.json",
+        "contentFiles/any/netstandard2.1/Properties/launchSettings.json",
+        "lib/netstandard2.1/MatBlazor.dll",
+        "lib/netstandard2.1/MatBlazor.xml",
+        "matblazor.2.8.0.nupkg.sha512",
+        "matblazor.nuspec",
+        "staticwebassets/dist/matBlazor.css",
+        "staticwebassets/dist/matBlazor.js"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/5.0.0": {
       "sha512": "kNiUekkQZIgd0k8WJZVLpdaJSTgpwHT+gn9slPtON4FC8vGGsFWQo3Bd5wo363EJuxlOgszUNQBbpLAaFh1kFg==",
       "type": "package",
@@ -627,7 +674,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "BlazorMonaco >= 2.1.0"
+      "BlazorMonaco >= 2.1.0",
+      "MatBlazor >= 2.8.0"
     ]
   },
   "packageFolders": {
@@ -677,6 +725,10 @@
           "BlazorMonaco": {
             "target": "Package",
             "version": "[2.1.0, )"
+          },
+          "MatBlazor": {
+            "target": "Package",
+            "version": "[2.8.0, )"
           }
         },
         "imports": [

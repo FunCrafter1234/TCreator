@@ -47,6 +47,10 @@
             "BlazorMonaco": {
               "target": "Package",
               "version": "[2.1.0, )"
+            },
+            "MatBlazor": {
+              "target": "Package",
+              "version": "[2.8.0, )"
             }
           },
           "imports": [
