@@ -1,5 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Marvin\Documents\GitHub\TCreator\TCreator\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="_content/BlazorMonaco" Path="C:\Users\Marvin\.nuget\packages\blazormonaco\2.1.0\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/MatBlazor" Path="C:\Users\Marvin\.nuget\packages\matblazor\2.8.0\build\..\staticwebassets\" />
-</StaticWebAssets>

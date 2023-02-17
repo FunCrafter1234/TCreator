@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCreator", "TCreator.csproj", "{7E6238DC-18CC-4658-AB3E-01E90D19D1F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCreatorBlazor", "..\TCreatorBlazor\TCreatorBlazor.csproj", "{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E6238DC-18CC-4658-AB3E-01E90D19D1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E6238DC-18CC-4658-AB3E-01E90D19D1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E6238DC-18CC-4658-AB3E-01E90D19D1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E6238DC-18CC-4658-AB3E-01E90D19D1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4BE493-A52F-4DA8-B2F0-60D1D6DB031F}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
